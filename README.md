@@ -8,7 +8,7 @@
 can use to both design and code their ideas into fully functional desktop, web or mobile applications. I also like creating scripts to automate Excels
 and Google Sheets functionalities.
 ----------------
-- :grey_exclamation: I'm creative, open-minded, proactive and organized. I also enjoy working out, running, reading and shopping.
+- :grey_exclamation: I'm creative, open-minded, proactive and organized. I also enjoy working out, running and reading.
 ----------------
 - 📫 If you want to contact me you can send me an email to valentina.eli.88@gmail.com
 
