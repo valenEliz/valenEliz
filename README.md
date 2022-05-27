@@ -4,8 +4,8 @@
 ----------------
 - :mortar_board: I’m a Software Engineer with experience working as a Developer and a Business Analyst for both large and small companies.
 ----------------
-- :computer: I enjoy finding solutions to problems. Helping clients understand what their actual needs are. Translate their need to requirements that developers 
-can use to both design and code their ideas into fully functional desktop, web or mobile applications. I also like creating scripts to automate Excels
+- :computer: I enjoy finding solutions to problems. Helping clients understand what their actual needs are. Translate their needs into requirements that developers 
+can use to both design and develop their ideas into fully functional desktop, web or mobile applications. I also like creating scripts to automate Excels
 and Google Sheets functionalities.
 ----------------
 - :grey_exclamation: I'm creative, open-minded, proactive and organized. I also enjoy working out, running and reading.
